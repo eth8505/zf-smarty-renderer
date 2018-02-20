@@ -1,7 +1,7 @@
 Eth8585\ZfSmartyrenderer - Zend Framework 3 Smarty Renderer
 ==================================================================
 
-The **Eth8585\ZfSmartyrenderer** module allows to use Smarty for template rendering in ZF3 applications.
+The **Eth8585\ZfSmartyRenderer** module allows to use Smarty for template rendering in ZF3 applications.
 
 ## Hot to install
 
