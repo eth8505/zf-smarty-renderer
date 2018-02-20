@@ -23,3 +23,8 @@ return [
 	],
 ];
 ~~~
+
+### Thanks
+Thanks to [Heiko Baumgärtner](https://github.com/skillfish) and his [skillfish/zf3-smarty-module](https://github.com/skillfish/zf3-smarty-module) module
+as well as the original [randlem/zf2-smarty-module](https://github.com/randlem/zf2-smarty-module) ZF2 module which this
+module is largely based upon..
