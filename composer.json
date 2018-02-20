@@ -1,0 +1,30 @@
+{
+    "name":        "eth8505/zf3-smarty-renderer",
+    "description": "Zend Framework 3 for Smarty template rendering",
+    "type":        "library",
+    "license":     "MIT",
+    "keywords": [
+        "smarty",
+        "module",
+        "zf3"
+    ],
+    "authors": [
+        {
+            "name": "Jan-Simon Winkelmann",
+            "email": "winkelmann@blue-metallic.de"
+        }
+    ],
+    "require": {
+        "php":                                ">=7.1",
+        "smarty/smarty":                      "~3.1.29",
+        "zendframework/zend-stdlib":          "^3.0",
+        "zendframework/zend-mvc":             "^3.0",
+        "zendframework/zend-servicemanager":  "^3.1",
+        "zendframework/zend-modulemanager":   "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Eth8505\\ZfSmartyRenderer\\": "src/"
+        }
+    }
+}
